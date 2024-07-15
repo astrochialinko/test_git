@@ -8,4 +8,8 @@ fourth remote
 
 fourth local
 
+<<<<<<< HEAD
 five local
+=======
+five remote
+>>>>>>> e941196baddcea16edcb8385bacd9481f1aabdbd
